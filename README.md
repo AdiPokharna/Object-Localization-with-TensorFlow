@@ -8,6 +8,3 @@ Created and trained an Object Localization model with TensorFlow. In this projec
 * Create synthetic data for model training
 * Create custom metrics and callbacks in Keras
 * Create and train a multi output neural network to perform object localization
-
-
-![image](images/1.png)
